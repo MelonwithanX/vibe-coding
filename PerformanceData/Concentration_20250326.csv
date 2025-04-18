@@ -1,0 +1,1189 @@
+Introduction,Header,Name,Account,Alias,BaseCurrency,AccountType,AnalysisPeriod,PerformanceMeasure
+Introduction,Data,Xiaohua Hu,Agami USA,Agami USA,USD,Individual,"March 3, 2025 to March 26, 2025 (Daily)",TWR
+Concentration,MetaInfo,Analysis Period,"March 26, 2025"
+Concentration,Header,SubSection,Symbol,Description,Sector,Value,ParsedWeight
+Concentration,Data,Holdings,DX,ICE DOLIDX DEC4,Unclassified,2318.327031671,25.030706406
+Concentration,Data,Holdings,    UUP,INVESCO DB US DOLLAR INDEX B,Broad,2318.327031671,25.030706406
+Concentration,Data,Holdings,CASH,Cash,Cash,1248.496443842,13.479870401
+Concentration,Data,Holdings,    Self,Cash,Cash,1121.502101,12.108727302
+Concentration,Data,Holdings,    UUP,INVESCO DB US DOLLAR INDEX B,Broad,123.314576385,1.33141309
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.394915449,0.025857623
+Concentration,Data,Holdings,    PDBC,INVESCO OPTIMUM YIELD DIVERS,Basic Materials,1.28253258,0.013847355
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,0.002318427,0.000025032
+Concentration,Data,Holdings,AGPXX,Invesco Funds INVESCO GOVT & AGENCY PORT-INSTITUTIONAL,Cash,1138.843924755,12.295964949
+Concentration,Data,Holdings,    UUP,INVESCO DB US DOLLAR INDEX B,Broad,1138.843924755,12.295964949
+Concentration,Data,Holdings,B 05/29/25,B 05/29/25,Unclassified,754.340452059,8.144525827
+Concentration,Data,Holdings,    UUP,INVESCO DB US DOLLAR INDEX B,Broad,754.340452059,8.144525827
+Concentration,Data,Holdings,IUGXX,Invesco Funds INVESCO PREMIER US GOVT MONEY PORT-INST,Cash,404.94311424,4.372123546
+Concentration,Data,Holdings,    PDBC,INVESCO OPTIMUM YIELD DIVERS,Basic Materials,404.94311424,4.372123546
+Concentration,Data,Holdings,B 03/06/25,B 03/06/25,Unclassified,204.019345872,2.202773068
+Concentration,Data,Holdings,    UUP,INVESCO DB US DOLLAR INDEX B,Broad,152.387650512,1.645311679
+Concentration,Data,Holdings,    PDBC,INVESCO OPTIMUM YIELD DIVERS,Basic Materials,51.63169536,0.557461389
+Concentration,Data,Holdings,B 12/05/24,B 12/05/24,Unclassified,154.086364613,1.663652496
+Concentration,Data,Holdings,    UUP,INVESCO DB US DOLLAR INDEX B,Broad,154.086364613,1.663652496
+Concentration,Data,Holdings,AAPL,APPLE INC,Technology,123.348380331,1.331778067
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,123.348380331,1.331778067
+Concentration,Data,Holdings,PowerShares Cayman fund,PowerShares Cayman fund,Unclassified,107.88265782,1.164796466
+Concentration,Data,Holdings,    PDBC,INVESCO OPTIMUM YIELD DIVERS,Basic Materials,107.88265782,1.164796466
+Concentration,Data,Holdings,NVDA,NVIDIA CORP,Technology,103.395868925,1.11635313
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,103.395868925,1.11635313
+Concentration,Data,Holdings,MSFT,MICROSOFT CORP,Technology,99.591979002,1.075282975
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,99.591979002,1.075282975
+Concentration,Data,Holdings,T 2 08/15/51,T 2 08/15/51,Unclassified,74.278922007,0.801980852
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,74.278922007,0.801980852
+Concentration,Data,Holdings,T 1 7/8 02/15/51,T 1 7/8 02/15/51,Unclassified,72.771944486,0.785710192
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,72.771944486,0.785710192
+Concentration,Data,Holdings,GBTC,GRAYSCALE BITCOIN TRUST ETF,Technology,68.41,0.738614786
+Concentration,Data,Holdings,AMZN,AMAZON.COM INC,Consumer Cyclicals,67.030340101,0.723718759
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,67.030340101,0.723718759
+Concentration,Data,Holdings,T 1 7/8 11/15/51,T 1 7/8 11/15/51,Unclassified,60.97346971,0.658323437
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,60.97346971,0.658323437
+Concentration,Data,Holdings,T 4 1/8 08/15/53,T 4 1/8 08/15/53,Unclassified,53.23340132,0.574754822
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,53.23340132,0.574754822
+Concentration,Data,Holdings,T 4 3/4 11/15/53,T 4 3/4 11/15/53,Unclassified,52.340806942,0.565117584
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,52.340806942,0.565117584
+Concentration,Data,Holdings,T 1 5/8 11/15/50,T 1 5/8 11/15/50,Unclassified,51.726423799,0.558484161
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,51.726423799,0.558484161
+Concentration,Data,Holdings,T 4 5/8 05/15/54,T 4 5/8 05/15/54,Unclassified,51.245350206,0.553290066
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,51.245350206,0.553290066
+Concentration,Data,Holdings,T 4 1/4 08/15/54,T 4 1/4 08/15/54,Unclassified,49.601585494,0.53554253
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,49.601585494,0.53554253
+Concentration,Data,Holdings,META,META PLATFORMS INC-CLASS A,Telecomm,49.150351682,0.530670611
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,49.150351682,0.530670611
+Concentration,Data,Holdings,T 4 1/4 02/15/54,T 4 1/4 02/15/54,Unclassified,46.981763035,0.507256613
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,46.981763035,0.507256613
+Concentration,Data,Holdings,T 3 5/8 05/15/53,T 3 5/8 05/15/53,Unclassified,44.928795966,0.485090967
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,44.928795966,0.485090967
+Concentration,Data,Holdings,T 2 1/2 02/15/46,T 2 1/2 02/15/46,Unclassified,40.752149806,0.439996206
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,40.752149806,0.439996206
+Concentration,Data,Holdings,T 4 11/15/52,T 4 11/15/52,Unclassified,40.016049248,0.432048614
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,40.016049248,0.432048614
+Concentration,Data,Holdings,T 2 02/15/50,T 2 02/15/50,Unclassified,36.163982862,0.390458303
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,36.163982862,0.390458303
+Concentration,Data,Holdings,T 3 02/15/48,T 3 02/15/48,Unclassified,35.256318709,0.380658359
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,35.256318709,0.380658359
+Concentration,Data,Holdings,GOOGL,ALPHABET INC-CL A,Telecomm,33.569755019,0.362448727
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,33.569755019,0.362448727
+Concentration,Data,Holdings,T 3 1/8 05/15/48,T 3 1/8 05/15/48,Unclassified,32.485798497,0.350745375
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,32.485798497,0.350745375
+Concentration,Data,Holdings,T 3 3/8 11/15/48,T 3 3/8 11/15/48,Unclassified,32.009361758,0.345601343
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,32.009361758,0.345601343
+Concentration,Data,Holdings,BRK B,BERKSHIRE HATHAWAY INC-CL B,Consumer Non-Cyc,31.776979992,0.343092345
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,31.776979992,0.343092345
+Concentration,Data,Holdings,AVGO,BROADCOM INC,Technology,31.427295044,0.339316837
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,31.427295044,0.339316837
+Concentration,Data,Holdings,T 3 5/8 02/15/53,T 3 5/8 02/15/53,Unclassified,31.261669065,0.337528593
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,31.261669065,0.337528593
+Concentration,Data,Holdings,T 3 08/15/48,T 3 08/15/48,Unclassified,31.094742324,0.335726304
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,31.094742324,0.335726304
+Concentration,Data,Holdings,T 3 02/15/49,T 3 02/15/49,Unclassified,30.323865361,0.327403235
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,30.323865361,0.327403235
+Concentration,Data,Holdings,T 2 1/2 05/15/46,T 2 1/2 05/15/46,Unclassified,30.248516485,0.326589702
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,30.248516485,0.326589702
+Concentration,Data,Holdings,T 1 3/8 08/15/50,T 1 3/8 08/15/50,Unclassified,29.366355029,0.317065108
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,29.366355029,0.317065108
+Concentration,Data,Holdings,GOOG,ALPHABET INC-CL C,Telecomm,27.655814946,0.298596606
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,27.655814946,0.298596606
+Concentration,Data,Holdings,TSLA,TESLA INC,Consumer Cyclicals,27.608053099,0.298080927
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,27.608053099,0.298080927
+Concentration,Data,Holdings,T 2 7/8 08/15/45,T 2 7/8 08/15/45,Unclassified,26.076507179,0.281545005
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,26.076507179,0.281545005
+Concentration,Data,Holdings,JPM,JPMORGAN CHASE & CO,Financials,25.1397891,0.271431369
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,25.1397891,0.271431369
+Concentration,Data,Holdings,T 2 1/4 08/15/49,T 2 1/4 08/15/49,Unclassified,24.87324359,0.268553508
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,24.87324359,0.268553508
+Concentration,Data,Holdings,LLY,ELI LILLY & CO,Healthcare,24.474534808,0.264248696
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,24.474534808,0.264248696
+Concentration,Data,Holdings,V,VISA INC-CLASS A SHARES,Technology,21.148263349,0.228335331
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,21.148263349,0.228335331
+Concentration,Data,Holdings,T 2 3/4 11/15/47,T 2 3/4 11/15/47,Unclassified,20.155244736,0.217613825
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,20.155244736,0.217613825
+Concentration,Data,Holdings,US0669224778,BlackRock Cash Funds: Treasury;SL Agency,Unclassified,18.465111485,0.199365654
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,18.465111485,0.199365654
+Concentration,Data,Holdings,T 3 02/15/47,T 3 02/15/47,Unclassified,17.613089579,0.190166473
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,17.613089579,0.190166473
+Concentration,Data,Holdings,T 4 1/2 11/15/54,T 4 1/2 11/15/54,Unclassified,17.196931941,0.185673267
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,17.196931941,0.185673267
+Concentration,Data,Holdings,XOM,EXXON MOBIL CORP,Energy,16.508541111,0.178240792
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,16.508541111,0.178240792
+Concentration,Data,Holdings,MA,MASTERCARD INC - A,Technology,15.938810512,0.172089477
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,15.938810512,0.172089477
+Concentration,Data,Holdings,COST,COSTCO WHOLESALE CORP,Consumer Cyclicals,15.674414576,0.169234825
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,15.674414576,0.169234825
+Concentration,Data,Holdings,T 2 7/8 11/15/46,T 2 7/8 11/15/46,Unclassified,15.474340713,0.167074651
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,15.474340713,0.167074651
+Concentration,Data,Holdings,T 3 08/15/52,T 3 08/15/52,Unclassified,15.381603635,0.166073379
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,15.381603635,0.166073379
+Concentration,Data,Holdings,UNH,UNITEDHEALTH GROUP INC,Healthcare,14.748175909,0.159234334
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,14.748175909,0.159234334
+Concentration,Data,Holdings,WMT,WALMART INC,Consumer Non-Cyc,14.441135466,0.155919254
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,14.441135466,0.155919254
+Concentration,Data,Holdings,NFLX,NETFLIX INC,Telecomm,14.140918145,0.152677843
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,14.140918145,0.152677843
+Concentration,Data,Holdings,PG,PROCTER & GAMBLE CO/THE,Consumer Non-Cyc,13.81170256,0.149123341
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,13.81170256,0.149123341
+Concentration,Data,Holdings,JNJ,JOHNSON & JOHNSON,Healthcare,13.404021084,0.144721651
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,13.404021084,0.144721651
+Concentration,Data,Holdings,HD,HOME DEPOT INC,Consumer Cyclicals,13.291439588,0.143506122
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,13.291439588,0.143506122
+Concentration,Data,Holdings,T 2 1/4 02/15/52,T 2 1/4 02/15/52,Unclassified,12.672521737,0.136823738
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,12.672521737,0.136823738
+Concentration,Data,Holdings,ABBV,ABBVIE INC,Healthcare,12.462430394,0.134555407
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,12.462430394,0.134555407
+Concentration,Data,Holdings,T 2 7/8 05/15/49,T 2 7/8 05/15/49,Unclassified,12.062775448,0.130240379
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,12.062775448,0.130240379
+Concentration,Data,Holdings,T 2 7/8 05/15/52,T 2 7/8 05/15/52,Unclassified,11.971197583,0.129251623
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,11.971197583,0.129251623
+Concentration,Data,Holdings,BAC,BANK OF AMERICA CORP,Financials,10.384790068,0.112123366
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,10.384790068,0.112123366
+Concentration,Data,Holdings,CRM,SALESFORCE INC,Technology,9.608660062,0.103743581
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,9.608660062,0.103743581
+Concentration,Data,Holdings,KO,COCA-COLA CO/THE,Consumer Non-Cyc,9.316971641,0.100594255
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,9.316971641,0.100594255
+Concentration,Data,Holdings,ORCL,ORACLE CORP,Technology,9.006519639,0.097242341
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,9.006519639,0.097242341
+Concentration,Data,Holdings,CVX,CHEVRON CORP,Energy,8.94511155,0.096579325
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,8.94511155,0.096579325
+Concentration,Data,Holdings,T 1 1/4 05/15/50,T 1 1/4 05/15/50,Unclassified,8.928262205,0.096397405
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,8.928262205,0.096397405
+Concentration,Data,Holdings,WFC,WELLS FARGO & CO,Financials,8.80012023,0.095013871
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,8.80012023,0.095013871
+Concentration,Data,Holdings,CSCO,CISCO SYSTEMS INC,Technology,8.622719086,0.093098492
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,8.622719086,0.093098492
+Concentration,Data,Holdings,PM,PHILIP MORRIS INTERNATIONAL,Consumer Non-Cyc,8.146806401,0.087960118
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,8.146806401,0.087960118
+Concentration,Data,Holdings,ABT,ABBOTT LABORATORIES .,Healthcare,8.076869411,0.087205016
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,8.076869411,0.087205016
+Concentration,Data,Holdings,IBM,INTL BUSINESS MACHINES CORP,Technology,7.877293123,0.085050215
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,7.877293123,0.085050215
+Concentration,Data,Holdings,MRK,MERCK & CO INC,Healthcare,7.875587343,0.085031797
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,7.875587343,0.085031797
+Concentration,Data,Holdings,Other Assets less Liabilities,Other Assets less Liabilities,Unclassified,7.73691698,0.08353459
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,6.437112441,0.069500752
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.299804539,0.014033838
+Concentration,Data,Holdings,GE,GENERAL ELECTRIC,Industrials,7.55831222,0.081606215
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,7.55831222,0.081606215
+Concentration,Data,Holdings,LIN,LINDE PLC,Basic Materials,7.503727252,0.081016867
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,7.503727252,0.081016867
+Concentration,Data,Holdings,MCD,MC DONALD'S-CORP,Consumer Cyclicals,7.455965406,0.080501188
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,7.455965406,0.080501188
+Concentration,Data,Holdings,ACN,ACCENTURE PLC-CL A,Technology,7.348501251,0.07934091
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,7.348501251,0.07934091
+Concentration,Data,Holdings,PEP,PEPSICO INC,Consumer Non-Cyc,7.104574677,0.076707264
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,7.104574677,0.076707264
+Concentration,Data,Holdings,DIS,WALT DISNEY CO/THE,Telecomm,6.954466017,0.075086558
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,6.954466017,0.075086558
+Concentration,Data,Holdings,ISRG,INTUITIVE SURGICAL INC,Healthcare,6.886234807,0.074349874
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,6.886234807,0.074349874
+Concentration,Data,Holdings,TMO,THERMO FISHER SCIENTIFIC INC,Healthcare,6.828238279,0.073723692
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,6.828238279,0.073723692
+Concentration,Data,Holdings,T,AT&T INC,Technology,6.633779332,0.071624141
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,6.633779332,0.071624141
+Concentration,Data,Holdings,GS,GOLDMAN SACHS GROUP INC,Financials,6.591134827,0.071163714
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,6.591134827,0.071163714
+Concentration,Data,Holdings,ADBE,ADOBE INC,Technology,6.514374716,0.070334944
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,6.514374716,0.070334944
+Concentration,Data,Holdings,NOW,SERVICENOW INC,Technology,6.461495529,0.069764013
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,6.461495529,0.069764013
+Concentration,Data,Holdings,VZ,VERIZON COMMUNICATIONS INC,Technology,6.120339482,0.066080591
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,6.120339482,0.066080591
+Concentration,Data,Holdings,TXN,TEXAS INSTRUMENTS INC,Technology,6.03163891,0.065122901
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,6.03163891,0.065122901
+Concentration,Data,Holdings,T 2 1/2 02/15/45,T 2 1/2 02/15/45,Unclassified,6.012840308,0.064919935
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,6.012840308,0.064919935
+Concentration,Data,Holdings,RTX,RTX CORP,Industrials,5.970230821,0.064459885
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.970230821,0.064459885
+Concentration,Data,Holdings,QCOM,QUALCOMM INC,Technology,5.89005915,0.063594281
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.89005915,0.063594281
+Concentration,Data,Holdings,PLTR,PALANTIR TECHNOLOGIES INC-A,Technology,5.873001348,0.06341011
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.873001348,0.06341011
+Concentration,Data,Holdings,INTU,INTUIT INC,Technology,5.804770138,0.062673426
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.804770138,0.062673426
+Concentration,Data,Holdings,SPGI,S&P GLOBAL INC,Industrials,5.716069566,0.061715736
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.716069566,0.061715736
+Concentration,Data,Holdings,AXP,AMERICAN EXPRESS CO,Financials,5.649544137,0.060997469
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.649544137,0.060997469
+Concentration,Data,Holdings,CAT,CATERPILLAR INC,Industrials,5.60178229,0.06048179
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.60178229,0.06048179
+Concentration,Data,Holdings,BKNG,BOOKING HOLDINGS INC,Consumer Cyclicals,5.60007651,0.060463373
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.60007651,0.060463373
+Concentration,Data,Holdings,AMGN,AMGEN INC,Healthcare,5.586430268,0.060316036
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.586430268,0.060316036
+Concentration,Data,Holdings,PGR,PROGRESSIVE CORP,Financials,5.572784027,0.060168699
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.572784027,0.060168699
+Concentration,Data,Holdings,MS,MORGAN STANLEY,Financials,5.569372466,0.060131865
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.569372466,0.060131865
+Concentration,Data,Holdings,AMD,ADVANCED MICRO DEVICES,Technology,5.468731432,0.059045255
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.468731432,0.059045255
+Concentration,Data,Holdings,UBER,UBER TECHNOLOGIES INC,Technology,5.398794443,0.058290154
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.398794443,0.058290154
+Concentration,Data,Holdings,BSX,BOSTON SCIENTIFIC CORP,Healthcare,5.15998521,0.055711758
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.15998521,0.055711758
+Concentration,Data,Holdings,T 2 3/4 08/15/47,T 2 3/4 08/15/47,Unclassified,5.1434302,0.055533016
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,5.1434302,0.055533016
+Concentration,Data,Holdings,C,CITIGROUP INC,Financials,5.100282902,0.055067159
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.100282902,0.055067159
+Concentration,Data,Holdings,PFE,PFIZER INC,Healthcare,5.052521055,0.05455148
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.052521055,0.05455148
+Concentration,Data,Holdings,UNP,UNION PACIFIC CORP,Industrials,5.043992154,0.054459395
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,5.043992154,0.054459395
+Concentration,Data,Holdings,NEE,NEXTERA ENERGY INC,Utilities,4.866591009,0.052544015
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.866591009,0.052544015
+Concentration,Data,Holdings,GILD,GILEAD SCIENCES INC,Healthcare,4.805182921,0.051880999
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.805182921,0.051880999
+Concentration,Data,Holdings,BLK,BLACKROCK INC,Financials,4.803477141,0.051862582
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.803477141,0.051862582
+Concentration,Data,Holdings,T 2 3/8 11/15/49,T 2 3/8 11/15/49,Unclassified,4.777118741,0.051577994
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,4.777118741,0.051577994
+Concentration,Data,Holdings,LOW,LOWE'S COS INC,Consumer Cyclicals,4.757421074,0.05136532
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.757421074,0.05136532
+Concentration,Data,Holdings,TJX,TJX COMPANIES INC,Consumer Cyclicals,4.747186393,0.051254817
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.747186393,0.051254817
+Concentration,Data,Holdings,HON,HONEYWELL INTERNATIONAL INC,Consumer Non-Cyc,4.668720502,0.05040763
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.668720502,0.05040763
+Concentration,Data,Holdings,CMCSA,COMCAST CORP-CLASS A,Telecomm,4.619252875,0.049873534
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.619252875,0.049873534
+Concentration,Data,Holdings,SCHW,SCHWAB (CHARLES) CORP,Financials,4.574902589,0.049394689
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.574902589,0.049394689
+Concentration,Data,Holdings,FI,FISERV INC,Industrials,4.522023402,0.048823759
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.522023402,0.048823759
+Concentration,Data,Holdings,DHR,DANAHER CORP,Healthcare,4.5049656,0.048639588
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.5049656,0.048639588
+Concentration,Data,Holdings,SYK,STRYKER CORP,Healthcare,4.469144215,0.048252829
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.469144215,0.048252829
+Concentration,Data,Holdings,TMUS,T-MOBILE US INC,Technology,4.43332283,0.047866069
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.43332283,0.047866069
+Concentration,Data,Holdings,SBUX,STARBUCKS CORP,Consumer Cyclicals,4.428205489,0.047810818
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.428205489,0.047810818
+Concentration,Data,Holdings,BA,BOEING CO/THE,Industrials,4.402618786,0.047534561
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.402618786,0.047534561
+Concentration,Data,Holdings,AMAT,APPLIED MATERIALS INC,Technology,4.395795665,0.047460893
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.395795665,0.047460893
+Concentration,Data,Holdings,ADP,AUTOMATIC DATA PROCESSING,Technology,4.330976016,0.046761043
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.330976016,0.046761043
+Concentration,Data,Holdings,COP,CONOCOPHILLIPS,Energy,4.325858675,0.046705791
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.325858675,0.046705791
+Concentration,Data,Holdings,PANW,PALO ALTO NETWORKS INC,Technology,4.204748278,0.045398176
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.204748278,0.045398176
+Concentration,Data,Holdings,VRTX,VERTEX PHARMACEUTICALS INC,Healthcare,4.167221113,0.044993
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.167221113,0.044993
+Concentration,Data,Holdings,DE,DEERE & CO,Industrials,4.126282388,0.044550989
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.126282388,0.044550989
+Concentration,Data,Holdings,BMY,BRISTOL-MYERS SQUIBB CO,Healthcare,4.078520541,0.04403531
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,4.078520541,0.04403531
+Concentration,Data,Holdings,MDT,MEDTRONIC PLC,Healthcare,3.979585287,0.042967118
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.979585287,0.042967118
+Concentration,Data,Holdings,MMC,MARSH & MCLENNAN COS,Financials,3.940352342,0.042543524
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.940352342,0.042543524
+Concentration,Data,Holdings,BX,BLACKSTONE INC,Financials,3.92500032,0.04237777
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.92500032,0.04237777
+Concentration,Data,Holdings,ETN,EATON CORP PLC,Industrials,3.909648298,0.042212016
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.909648298,0.042212016
+Concentration,Data,Holdings,PLD,PROLOGIS INC,Real Estate,3.870415352,0.041788423
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.870415352,0.041788423
+Concentration,Data,Holdings,ADI,ANALOG DEVICES INC,Technology,3.85165177,0.041585835
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.85165177,0.041585835
+Concentration,Data,Holdings,T 3 11/15/44,T 3 11/15/44,Unclassified,3.635293466,0.039249839
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,3.635293466,0.039249839
+Concentration,Data,Holdings,CB,CHUBB LTD,Financials,3.612842537,0.039007439
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.612842537,0.039007439
+Concentration,Data,Holdings,MU,MICRON TECHNOLOGY INC,Technology,3.501966822,0.037810327
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.501966822,0.037810327
+Concentration,Data,Holdings,INTC,INTEL CORP,Technology,3.450793415,0.037257814
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.450793415,0.037257814
+Concentration,Data,Holdings,ICE,INTERCONTINENTAL EXCHANGE IN,Financials,3.356975502,0.036244873
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.356975502,0.036244873
+Concentration,Data,Holdings,LRCX,LAM RESEARCH CORP,Technology,3.329683018,0.035950199
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.329683018,0.035950199
+Concentration,Data,Holdings,SO,SOUTHERN CO/THE,Utilities,3.317742556,0.035821279
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.317742556,0.035821279
+Concentration,Data,Holdings,ANET,ARISTA NETWORKS INC,Technology,3.242688226,0.035010926
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.242688226,0.035010926
+Concentration,Data,Holdings,AMT,AMERICAN TOWER CORP,Real Estate,3.242688226,0.035010926
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.242688226,0.035010926
+Concentration,Data,Holdings,LMT,LOCKHEED MARTIN CORP,Industrials,3.203455281,0.034587333
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.203455281,0.034587333
+Concentration,Data,Holdings,KLAC,KLA CORP,Technology,3.19833794,0.034532081
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.19833794,0.034532081
+Concentration,Data,Holdings,NKE,NIKE INC -CL B,Consumer Cyclicals,3.193220599,0.03447683
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.193220599,0.03447683
+Concentration,Data,Holdings,MO,ALTRIA GROUP INC,Consumer Non-Cyc,3.191514819,0.034458413
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.191514819,0.034458413
+Concentration,Data,Holdings,GEV,GE VERNOVA INC,Utilities,3.116460489,0.03364806
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.116460489,0.03364806
+Concentration,Data,Holdings,ELV,ELEVANCE HEALTH INC,Healthcare,3.106225807,0.033537558
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.106225807,0.033537558
+Concentration,Data,Holdings,KKR,KKR & CO INC,Financials,3.087462225,0.033334969
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.087462225,0.033334969
+Concentration,Data,Holdings,CME,CME GROUP INC,Financials,3.084050664,0.033298135
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.084050664,0.033298135
+Concentration,Data,Holdings,WELL,WELLTOWER INC,Real Estate,3.065287082,0.033095547
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.065287082,0.033095547
+Concentration,Data,Holdings,DUK,DUKE ENERGY CORP,Utilities,3.061875521,0.033058713
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.061875521,0.033058713
+Concentration,Data,Holdings,CRWD,CROWDSTRIKE HOLDINGS INC - A,Technology,3.058463961,0.033021878
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,3.058463961,0.033021878
+Concentration,Data,Holdings,AON,AON PLC-CLASS A,Financials,2.986821191,0.03224836
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.986821191,0.03224836
+Concentration,Data,Holdings,EQIX,EQUINIX INC,Real Estate,2.944176685,0.031787932
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.944176685,0.031787932
+Concentration,Data,Holdings,UPS,UNITED PARCEL SERVICE-CL B,Industrials,2.939059344,0.031732681
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.939059344,0.031732681
+Concentration,Data,Holdings,PH,PARKER HANNIFIN CORP,Industrials,2.901532179,0.031327504
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.901532179,0.031327504
+Concentration,Data,Holdings,MDLZ,MONDELEZ INTERNATIONAL INC-A,Consumer Non-Cyc,2.896414838,0.031272253
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.896414838,0.031272253
+Concentration,Data,Holdings,CI,THE CIGNA GROUP,Healthcare,2.896414838,0.031272253
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.896414838,0.031272253
+Concentration,Data,Holdings,WM,WASTE MANAGEMENT INC,Industrials,2.869122355,0.030977579
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.869122355,0.030977579
+Concentration,Data,Holdings,T 2 3/8 05/15/51,T 2 3/8 05/15/51,Unclassified,2.869053357,0.030976834
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,2.869053357,0.030976834
+Concentration,Data,Holdings,MMM,3M CO,Consumer Non-Cyc,2.852064552,0.030793408
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.852064552,0.030793408
+Concentration,Data,Holdings,AJG,ARTHUR J GALLAGHER & CO,Financials,2.845241431,0.03071974
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.845241431,0.03071974
+Concentration,Data,Holdings,SHW,SHERWIN-WILLIAMS CO/THE,Basic Materials,2.83330097,0.03059082
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.83330097,0.03059082
+Concentration,Data,Holdings,CVS,CVS HEALTH CORP,Healthcare,2.790656464,0.030130392
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.790656464,0.030130392
+Concentration,Data,Holdings,MCK,MCKESSON CORP,Healthcare,2.741188837,0.029596296
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.741188837,0.029596296
+Concentration,Data,Holdings,APH,AMPHENOL CORP-CL A,Technology,2.707073232,0.029227954
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.707073232,0.029227954
+Concentration,Data,Holdings,TT,TRANE TECHNOLOGIES PLC,Industrials,2.68660387,0.029006948
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.68660387,0.029006948
+Concentration,Data,Holdings,ORLY,O'REILLY AUTOMOTIVE INC,Consumer Cyclicals,2.678074968,0.028914863
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.678074968,0.028914863
+Concentration,Data,Holdings,MCO,MOODY'S CORP,Industrials,2.649076704,0.028601772
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.649076704,0.028601772
+Concentration,Data,Holdings,CEG,CONSTELLATION ENERGY,Utilities,2.643959364,0.028546521
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.643959364,0.028546521
+Concentration,Data,Holdings,TDG,TRANSDIGM GROUP INC,Industrials,2.594491737,0.028012424
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.594491737,0.028012424
+Concentration,Data,Holdings,COF,CAPITAL ONE FINANCIAL CORP,Financials,2.580845495,0.027865088
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.580845495,0.027865088
+Concentration,Data,Holdings,PNC,PNC FINANCIAL SERVICES GROUP,Financials,2.570610814,0.027754585
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.570610814,0.027754585
+Concentration,Data,Holdings,ZTS,ZOETIS INC,Healthcare,2.54672989,0.027496745
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.54672989,0.027496745
+Concentration,Data,Holdings,CL,COLGATE-PALMOLIVE CO,Consumer Non-Cyc,2.514320066,0.02714682
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.514320066,0.02714682
+Concentration,Data,Holdings,REGN,REGENERON PHARMACEUTICALS,Healthcare,2.483616022,0.026815312
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.483616022,0.026815312
+Concentration,Data,Holdings,MSI,MOTOROLA SOLUTIONS INC,Technology,2.483616022,0.026815312
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.483616022,0.026815312
+Concentration,Data,Holdings,CMG,CHIPOTLE MEXICAN GRILL INC,Consumer Cyclicals,2.481910241,0.026796895
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.481910241,0.026796895
+Concentration,Data,Holdings,USB,US BANCORP,Financials,2.466558219,0.026631141
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.466558219,0.026631141
+Concentration,Data,Holdings,EOG,EOG RESOURCES INC,Energy,2.410267472,0.026023377
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.410267472,0.026023377
+Concentration,Data,Holdings,PYPL,PAYPAL HOLDINGS INC,Industrials,2.405150131,0.025968125
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.405150131,0.025968125
+Concentration,Data,Holdings,CTAS,CINTAS CORP,Industrials,2.40003279,0.025912874
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.40003279,0.025912874
+Concentration,Data,Holdings,ITW,ILLINOIS TOOL WORKS,Consumer Non-Cyc,2.394915449,0.025857623
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.394915449,0.025857623
+Concentration,Data,Holdings,WMB,WILLIAMS COS INC,Energy,2.393209669,0.025839206
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.393209669,0.025839206
+Concentration,Data,Holdings,APD,AIR PRODUCTS & CHEMICALS INC,Basic Materials,2.372740306,0.0256182
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.372740306,0.0256182
+Concentration,Data,Holdings,SNPS,SYNOPSYS INC,Technology,2.371034526,0.025599783
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.371034526,0.025599783
+Concentration,Data,Holdings,EMR,EMERSON ELECTRIC CO,Industrials,2.340330482,0.025268275
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.340330482,0.025268275
+Concentration,Data,Holdings,CDNS,CADENCE DESIGN SYS INC,Technology,2.319861119,0.02504727
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.319861119,0.02504727
+Concentration,Data,Holdings,FTNT,FORTINET INC,Technology,2.319861119,0.02504727
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.319861119,0.02504727
+Concentration,Data,Holdings,ECL,ECOLAB INC,Basic Materials,2.289157075,0.024715762
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.289157075,0.024715762
+Concentration,Data,Holdings,T 3 1/8 08/15/44,T 3 1/8 08/15/44,Unclassified,2.274376843,0.024556181
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,2.274376843,0.024556181
+Concentration,Data,Holdings,APO,APOLLO GLOBAL MANAGEMENT INC,Financials,2.25333569,0.024329002
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.25333569,0.024329002
+Concentration,Data,Holdings,BDX,BECTON DICKINSON AND CO,Healthcare,2.200456503,0.023758072
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.200456503,0.023758072
+Concentration,Data,Holdings,GD,GENERAL DYNAMICS CORP,Industrials,2.198750722,0.023739655
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.198750722,0.023739655
+Concentration,Data,Holdings,MAR,MARRIOTT INTERNATIONAL -CL A,Consumer Cyclicals,2.1833987,0.023573901
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.1833987,0.023573901
+Concentration,Data,Holdings,BK,BANK OF NEW YORK MELLON CORP,Financials,2.1833987,0.023573901
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.1833987,0.023573901
+Concentration,Data,Holdings,HLT,HILTON WORLDWIDE HOLDINGS IN,Consumer Cyclicals,2.17998714,0.023537067
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.17998714,0.023537067
+Concentration,Data,Holdings,NOC,NORTHROP GRUMMAN CORP,Industrials,2.135636854,0.023058222
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.135636854,0.023058222
+Concentration,Data,Holdings,ROP,ROPER TECHNOLOGIES INC,Technology,2.115167491,0.022837217
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.115167491,0.022837217
+Concentration,Data,Holdings,OKE,ONEOK INC,Energy,2.103227029,0.022708297
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.103227029,0.022708297
+Concentration,Data,Holdings,CSX,CSX CORP,Industrials,2.084463447,0.022505709
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.084463447,0.022505709
+Concentration,Data,Holdings,TFC,TRUIST FINANCIAL CORP,Financials,2.077640326,0.02243204
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.077640326,0.02243204
+Concentration,Data,Holdings,RCL,ROYAL CARIBBEAN CRUISES LTD,Consumer Cyclicals,2.055465183,0.022192618
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.055465183,0.022192618
+Concentration,Data,Holdings,ABNB,AIRBNB INC-CLASS A,Technology,2.029878479,0.021916361
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,2.029878479,0.021916361
+Concentration,Data,Holdings,FDX,FEDEX CORPORATION,Industrials,1.994057094,0.021529602
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.994057094,0.021529602
+Concentration,Data,Holdings,ADSK,AUTODESK INC,Technology,1.990645534,0.021492768
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.990645534,0.021492768
+Concentration,Data,Holdings,AZO,AUTOZONE INC,Consumer Cyclicals,1.990645534,0.021492768
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.990645534,0.021492768
+Concentration,Data,Holdings,SLB,SCHLUMBERGER LTD,Energy,1.985528193,0.021437516
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.985528193,0.021437516
+Concentration,Data,Holdings,TRV,TRAVELERS COS INC/THE,Financials,1.980410852,0.021382265
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.980410852,0.021382265
+Concentration,Data,Holdings,TGT,TARGET CORP,Consumer Cyclicals,1.932649006,0.020866586
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.932649006,0.020866586
+Concentration,Data,Holdings,JCI,JOHNSON CONTROLS INTERNATION,Industrials,1.930943226,0.020848169
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.930943226,0.020848169
+Concentration,Data,Holdings,SPG,SIMON PROPERTY GROUP INC,Real Estate,1.924120105,0.0207745
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.924120105,0.0207745
+Concentration,Data,Holdings,AEP,AMERICAN ELECTRIC POWER,Utilities,1.907062302,0.020590329
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.907062302,0.020590329
+Concentration,Data,Holdings,PCAR,PACCAR INC,Industrials,1.896827621,0.020479826
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.896827621,0.020479826
+Concentration,Data,Holdings,WDAY,WORKDAY INC-CLASS A,Technology,1.89341606,0.020442992
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.89341606,0.020442992
+Concentration,Data,Holdings,HCA,HCA HEALTHCARE INC,Healthcare,1.884887159,0.020350907
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.884887159,0.020350907
+Concentration,Data,Holdings,NSC,NORFOLK SOUTHERN CORP,Industrials,1.876358258,0.020258821
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.876358258,0.020258821
+Concentration,Data,Holdings,HWM,HOWMET AEROSPACE INC,Industrials,1.872946698,0.020221987
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.872946698,0.020221987
+Concentration,Data,Holdings,NXPI,NXP SEMICONDUCTORS NV,Technology,1.849065774,0.019964147
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.849065774,0.019964147
+Concentration,Data,Holdings,AFL,AFLAC INC,Financials,1.847359994,0.01994573
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.847359994,0.01994573
+Concentration,Data,Holdings,CARR,CARRIER GLOBAL CORP,Industrials,1.825184851,0.019706308
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.825184851,0.019706308
+Concentration,Data,Holdings,GM,GENERAL MOTORS CO,Consumer Cyclicals,1.823479071,0.019687891
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.823479071,0.019687891
+Concentration,Data,Holdings,PSX,PHILLIPS 66,Energy,1.808127049,0.019522137
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.808127049,0.019522137
+Concentration,Data,Holdings,FCX,FREEPORT-MCMORAN INC,Basic Materials,1.789363466,0.019319549
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.789363466,0.019319549
+Concentration,Data,Holdings,ALL,ALLSTATE CORP,Financials,1.780834565,0.019227463
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.780834565,0.019227463
+Concentration,Data,Holdings,KMI,KINDER MORGAN INC,Energy,1.768894103,0.019098543
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.768894103,0.019098543
+Concentration,Data,Holdings,AMP,AMERIPRISE FINANCIAL INC.,Financials,1.760365202,0.019006458
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.760365202,0.019006458
+Concentration,Data,Holdings,AIG,AMERICAN INTERNATIONAL GROUP,Financials,1.74671896,0.018859121
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.74671896,0.018859121
+Concentration,Data,Holdings,CMI,CUMMINS INC,Consumer Cyclicals,1.705780235,0.01841711
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.705780235,0.01841711
+Concentration,Data,Holdings,MET,METLIFE INC,Financials,1.692133993,0.018269773
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.692133993,0.018269773
+Concentration,Data,Holdings,O,REALTY INCOME CORP,Real Estate,1.681899311,0.018159271
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.681899311,0.018159271
+Concentration,Data,Holdings,DFS,DISCOVER FINANCIAL SERVICES,Financials,1.654606828,0.017864597
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.654606828,0.017864597
+Concentration,Data,Holdings,NEM,NEWMONT CORP,Basic Materials,1.646077926,0.017772511
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.646077926,0.017772511
+Concentration,Data,Holdings,DLR,DIGITAL REALTY TRUST INC.,Real Estate,1.646077926,0.017772511
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.646077926,0.017772511
+Concentration,Data,Holdings,PAYX,PAYCHEX INC,Industrials,1.639254805,0.017698843
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.639254805,0.017698843
+Concentration,Data,Holdings,RSG,REPUBLIC SERVICES INC,Industrials,1.629020124,0.01758834
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.629020124,0.01758834
+Concentration,Data,Holdings,MPC,MARATHON PETROLEUM CORP,Energy,1.629020124,0.01758834
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.629020124,0.01758834
+Concentration,Data,Holdings,CPRT,COPART INC,Technology,1.622197003,0.017514672
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.622197003,0.017514672
+Concentration,Data,Holdings,PSA,PUBLIC STORAGE,Real Estate,1.615373882,0.017441003
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.615373882,0.017441003
+Concentration,Data,Holdings,D,DOMINION ENERGY INC,Utilities,1.605139201,0.017330501
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.605139201,0.017330501
+Concentration,Data,Holdings,KMB,KIMBERLY-CLARK CORP,Consumer Non-Cyc,1.59831608,0.017256832
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.59831608,0.017256832
+Concentration,Data,Holdings,ROST,ROSS STORES INC,Consumer Cyclicals,1.571023596,0.016962158
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.571023596,0.016962158
+Concentration,Data,Holdings,MSCI,MSCI INC,Industrials,1.562494695,0.016870073
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.562494695,0.016870073
+Concentration,Data,Holdings,TEL,TE CONNECTIVITY PLC,Technology,1.555671574,0.016796404
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.555671574,0.016796404
+Concentration,Data,Holdings,FICO,FAIR ISAAC CORP,Technology,1.548848453,0.016722736
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.548848453,0.016722736
+Concentration,Data,Holdings,VST,VISTRA CORP,Utilities,1.535202211,0.016575399
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.535202211,0.016575399
+Concentration,Data,Holdings,SRE,SEMPRA,Utilities,1.52837909,0.016501731
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.52837909,0.016501731
+Concentration,Data,Holdings,GWW,WW GRAINGER INC,Industrials,1.52837909,0.016501731
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.52837909,0.016501731
+Concentration,Data,Holdings,KVUE,KENVUE INC,Consumer Non-Cyc,1.52667331,0.016483314
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.52667331,0.016483314
+Concentration,Data,Holdings,COR,CENCORA INC,Healthcare,1.499380826,0.01618864
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.499380826,0.01618864
+Concentration,Data,Holdings,EXC,EXELON CORP,Utilities,1.495969266,0.016151806
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.495969266,0.016151806
+Concentration,Data,Holdings,BKR,BAKER HUGHES CO,Energy,1.489146145,0.016078137
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.489146145,0.016078137
+Concentration,Data,Holdings,TRGP,TARGA RESOURCES CORP,Energy,1.484028804,0.016022886
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.484028804,0.016022886
+Concentration,Data,Holdings,AME,AMETEK INC,Industrials,1.478911463,0.015967634
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.478911463,0.015967634
+Concentration,Data,Holdings,YUM,YUM! BRANDS INC,Consumer Cyclicals,1.473794123,0.015912383
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.473794123,0.015912383
+Concentration,Data,Holdings,FAST,FASTENAL CO,Industrials,1.465265222,0.015820298
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.465265222,0.015820298
+Concentration,Data,Holdings,CTVA,CORTEVA INC,Basic Materials,1.461853661,0.015783463
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.461853661,0.015783463
+Concentration,Data,Holdings,KR,KROGER CO,Consumer Non-Cyc,1.45673632,0.015728212
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.45673632,0.015728212
+Concentration,Data,Holdings,CBRE,CBRE GROUP INC - A,Real Estate,1.441384298,0.015562458
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.441384298,0.015562458
+Concentration,Data,Holdings,EW,EDWARDS LIFESCIENCES CORP,Healthcare,1.426032276,0.015396704
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.426032276,0.015396704
+Concentration,Data,Holdings,URI,UNITED RENTALS INC,Industrials,1.424326496,0.015378287
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.424326496,0.015378287
+Concentration,Data,Holdings,VRSK,VERISK ANALYTICS INC,Technology,1.415797595,0.015286201
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.415797595,0.015286201
+Concentration,Data,Holdings,XEL,XCEL ENERGY INC,Utilities,1.397034012,0.015083613
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.397034012,0.015083613
+Concentration,Data,Holdings,VLO,VALERO ENERGY CORP,Energy,1.397034012,0.015083613
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.397034012,0.015083613
+Concentration,Data,Holdings,CTSH,COGNIZANT TECH SOLUTIONS-A,Technology,1.395328232,0.015065196
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.395328232,0.015065196
+Concentration,Data,Holdings,LULU,LULULEMON ATHLETICA INC,Consumer Cyclicals,1.393622452,0.015046779
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.393622452,0.015046779
+Concentration,Data,Holdings,HES,HESS CORP,Energy,1.390210891,0.015009945
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.390210891,0.015009945
+Concentration,Data,Holdings,PRU,PRUDENTIAL FINANCIAL INC,Financials,1.38338777,0.014936276
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.38338777,0.014936276
+Concentration,Data,Holdings,CCI,CROWN CASTLE INC,Real Estate,1.37997621,0.014899442
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.37997621,0.014899442
+Concentration,Data,Holdings,PEG,PUBLIC SERVICE ENTERPRISE GP,Utilities,1.364624188,0.014733688
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.364624188,0.014733688
+Concentration,Data,Holdings,GEHC,GE HEALTHCARE TECHNOLOGY,Healthcare,1.347566385,0.014549517
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.347566385,0.014549517
+Concentration,Data,Holdings,OTIS,OTIS WORLDWIDE CORP,Industrials,1.345860605,0.0145311
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.345860605,0.0145311
+Concentration,Data,Holdings,LHX,L3HARRIS TECHNOLOGIES INC,Industrials,1.320273902,0.014254843
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.320273902,0.014254843
+Concentration,Data,Holdings,GLW,CORNING INC,Technology,1.304921879,0.014089089
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.304921879,0.014089089
+Concentration,Data,Holdings,DAL,DELTA AIR LINES INC.,Industrials,1.301510319,0.014052255
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.301510319,0.014052255
+Concentration,Data,Holdings,IT,GARTNER INC,Technology,1.296392978,0.013997004
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.296392978,0.013997004
+Concentration,Data,Holdings,AXON,AXON ENTERPRISE INC,Industrials,1.292981418,0.013960169
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.292981418,0.013960169
+Concentration,Data,Holdings,FIS,FIDELITY NATIONAL INFO SERV,Technology,1.292981418,0.013960169
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.292981418,0.013960169
+Concentration,Data,Holdings,PWR,QUANTA SERVICES INC,Industrials,1.291275638,0.013941752
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.291275638,0.013941752
+Concentration,Data,Holdings,MNST,MONSTER BEVERAGE CORP,Consumer Non-Cyc,1.291275638,0.013941752
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.291275638,0.013941752
+Concentration,Data,Holdings,KDP,KEURIG DR PEPPER INC,Consumer Non-Cyc,1.274217835,0.013757581
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.274217835,0.013757581
+Concentration,Data,Holdings,ETR,ENTERGY CORP,Utilities,1.263983154,0.013647079
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.263983154,0.013647079
+Concentration,Data,Holdings,F,FORD MOTOR CO,Consumer Cyclicals,1.258865813,0.013591827
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.258865813,0.013591827
+Concentration,Data,Holdings,SYY,SYSCO CORP,Consumer Non-Cyc,1.252042692,0.013518159
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.252042692,0.013518159
+Concentration,Data,Holdings,DHI,DR HORTON INC,Consumer Cyclicals,1.248631132,0.013481325
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.248631132,0.013481325
+Concentration,Data,Holdings,A,AGILENT TECHNOLOGIES INC,Healthcare,1.240102231,0.013389239
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.240102231,0.013389239
+Concentration,Data,Holdings,IDXX,IDEXX LABORATORIES INC,Healthcare,1.207692406,0.013039314
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.207692406,0.013039314
+Concentration,Data,Holdings,PCG,P G & E CORP,Utilities,1.205986626,0.013020897
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.205986626,0.013020897
+Concentration,Data,Holdings,ED,CONSOLIDATED EDISON INC,Utilities,1.188928824,0.012836726
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.188928824,0.012836726
+Concentration,Data,Holdings,CHTR,CHARTER COMMUNICATIONS INC-A,Telecomm,1.187223043,0.012818309
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.187223043,0.012818309
+Concentration,Data,Holdings,GRMN,GARMIN LTD,Technology,1.187223043,0.012818309
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.187223043,0.012818309
+Concentration,Data,Holdings,ACGL,ARCH CAPITAL GROUP LTD,Financials,1.175282582,0.012689389
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.175282582,0.012689389
+Concentration,Data,Holdings,TTWO,TAKE-TWO INTERACTIVE SOFTWRE,Telecomm,1.168459461,0.01261572
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.168459461,0.01261572
+Concentration,Data,Holdings,DXCM,DEXCOM INC,Healthcare,1.1650479,0.012578886
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.1650479,0.012578886
+Concentration,Data,Holdings,HIG,HARTFORD INSURANCE GROUP INC,Financials,1.158224779,0.012505218
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.158224779,0.012505218
+Concentration,Data,Holdings,NDAQ,NASDAQ INC,Financials,1.156518999,0.012486801
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.156518999,0.012486801
+Concentration,Data,Holdings,VICI,VICI PROPERTIES INC,Real Estate,1.156518999,0.012486801
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.156518999,0.012486801
+Concentration,Data,Holdings,RMD,RESMED INC,Healthcare,1.156518999,0.012486801
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.156518999,0.012486801
+Concentration,Data,Holdings,WTW,WILLIS TOWERS WATSON PLC,Financials,1.154813219,0.012468384
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.154813219,0.012468384
+Concentration,Data,Holdings,IR,INGERSOLL-RAND INC,Industrials,1.153107439,0.012449966
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.153107439,0.012449966
+Concentration,Data,Holdings,DD,DUPONT DE NEMOURS INC,Basic Materials,1.151401658,0.012431549
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.151401658,0.012431549
+Concentration,Data,Holdings,WEC,WEC ENERGY GROUP INC,Utilities,1.139461197,0.01230263
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.139461197,0.01230263
+Concentration,Data,Holdings,GIS,GENERAL MILLS INC,Consumer Non-Cyc,1.136049636,0.012265795
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.136049636,0.012265795
+Concentration,Data,Holdings,ODFL,OLD DOMINION FREIGHT LINE,Industrials,1.118991834,0.012081624
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.118991834,0.012081624
+Concentration,Data,Holdings,OXY,OCCIDENTAL PETROLEUM CORP,Energy,1.112168713,0.012007956
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.112168713,0.012007956
+Concentration,Data,Holdings,VMC,VULCAN MATERIALS CO,Basic Materials,1.101934032,0.011897453
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.101934032,0.011897453
+Concentration,Data,Holdings,HUM,HUMANA INC,Healthcare,1.098522471,0.011860619
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.098522471,0.011860619
+Concentration,Data,Holdings,IQV,IQVIA HOLDINGS INC,Healthcare,1.098522471,0.011860619
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.098522471,0.011860619
+Concentration,Data,Holdings,ROK,ROCKWELL AUTOMATION INC,Industrials,1.09340513,0.011805368
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.09340513,0.011805368
+Concentration,Data,Holdings,EXR,EXTRA SPACE STORAGE INC,Real Estate,1.09169935,0.01178695
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.09169935,0.01178695
+Concentration,Data,Holdings,NUE,NUCOR CORP,Basic Materials,1.08999357,0.011768533
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.08999357,0.011768533
+Concentration,Data,Holdings,AVB,AVALONBAY COMMUNITIES INC,Real Estate,1.084876229,0.011713282
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.084876229,0.011713282
+Concentration,Data,Holdings,WAB,WABTEC CORP,Industrials,1.076347328,0.011621196
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.076347328,0.011621196
+Concentration,Data,Holdings,MTB,M & T BANK CORP,Financials,1.074641548,0.011602779
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.074641548,0.011602779
+Concentration,Data,Holdings,XYL,XYLEM INC,Industrials,1.072935768,0.011584362
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.072935768,0.011584362
+Concentration,Data,Holdings,MCHP,MICROCHIP TECHNOLOGY INC,Technology,1.067818427,0.011529111
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.067818427,0.011529111
+Concentration,Data,Holdings,DELL,DELL TECHNOLOGIES -C,Technology,1.066112647,0.011510694
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.066112647,0.011510694
+Concentration,Data,Holdings,CAH,CARDINAL HEALTH INC,Healthcare,1.057583745,0.011418608
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.057583745,0.011418608
+Concentration,Data,Holdings,CSGP,COSTAR GROUP INC,Technology,1.055877965,0.011400191
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.055877965,0.011400191
+Concentration,Data,Holdings,EBAY,EBAY INC,Consumer Cyclicals,1.047349064,0.011308106
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.047349064,0.011308106
+Concentration,Data,Holdings,UAL,UNITED AIRLINES HOLDINGS INC,Industrials,1.042231723,0.011252854
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.042231723,0.011252854
+Concentration,Data,Holdings,EA,ELECTRONIC ARTS INC,Telecomm,1.040525943,0.011234437
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.040525943,0.011234437
+Concentration,Data,Holdings,EFX,EQUIFAX INC,Industrials,1.026879701,0.0110871
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.026879701,0.0110871
+Concentration,Data,Holdings,MPWR,MONOLITHIC POWER SYSTEMS INC,Technology,1.006410338,0.010866095
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.006410338,0.010866095
+Concentration,Data,Holdings,HPQ,HP INC,Technology,1.004704558,0.010847678
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.004704558,0.010847678
+Concentration,Data,Holdings,FANG,DIAMONDBACK ENERGY INC,Energy,1.002998778,0.010829261
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,1.002998778,0.010829261
+Concentration,Data,Holdings,IP,INTERNATIONAL PAPER CO,Basic Materials,0.997881437,0.010774009
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.997881437,0.010774009
+Concentration,Data,Holdings,TSCO,TRACTOR SUPPLY COMPANY,Consumer Cyclicals,0.997881437,0.010774009
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.997881437,0.010774009
+Concentration,Data,Holdings,MLM,MARTIN MARIETTA MATERIALS,Basic Materials,0.996175657,0.010755592
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.996175657,0.010755592
+Concentration,Data,Holdings,CNC,CENTENE CORP,Healthcare,0.991058316,0.010700341
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.991058316,0.010700341
+Concentration,Data,Holdings,ANSS,ANSYS INC,Technology,0.984235195,0.010626673
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.984235195,0.010626673
+Concentration,Data,Holdings,FITB,FIFTH THIRD BANCORP,Financials,0.984235195,0.010626673
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.984235195,0.010626673
+Concentration,Data,Holdings,STT,STATE STREET CORP,Financials,0.982529415,0.010608255
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.982529415,0.010608255
+Concentration,Data,Holdings,VTR,VENTAS INC.,Real Estate,0.979117855,0.010571421
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.979117855,0.010571421
+Concentration,Data,Holdings,EQT,EQT CORP,Energy,0.968883173,0.010460919
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.968883173,0.010460919
+Concentration,Data,Holdings,LEN,LENNAR CORP-A,Consumer Cyclicals,0.963765833,0.010405667
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.963765833,0.010405667
+Concentration,Data,Holdings,RJF,RAYMOND JAMES FINANCIAL INC,Financials,0.955236931,0.010313582
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.955236931,0.010313582
+Concentration,Data,Holdings,BR,BROADRIDGE FINANCIAL SOLUTIO,Industrials,0.953531151,0.010295165
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.953531151,0.010295165
+Concentration,Data,Holdings,BRO,BROWN & BROWN INC,Financials,0.950119591,0.01025833
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.950119591,0.01025833
+Concentration,Data,Holdings,DTE,DTE ENERGY COMPANY,Utilities,0.934767569,0.010092576
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.934767569,0.010092576
+Concentration,Data,Holdings,KEYS,KEYSIGHT TECHNOLOGIES IN,Technology,0.934767569,0.010092576
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.934767569,0.010092576
+Concentration,Data,Holdings,FTV,FORTIVE CORP,Industrials,0.931356008,0.010055742
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.931356008,0.010055742
+Concentration,Data,Holdings,STZ,CONSTELLATION BRANDS INC-A,Consumer Non-Cyc,0.924532887,0.009982074
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.924532887,0.009982074
+Concentration,Data,Holdings,IRM,IRON MOUNTAIN INC,Real Estate,0.922827107,0.009963657
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.922827107,0.009963657
+Concentration,Data,Holdings,DOV,DOVER CORP,Industrials,0.921121327,0.009945239
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.921121327,0.009945239
+Concentration,Data,Holdings,CHD,CHURCH & DWIGHT CO INC,Consumer Non-Cyc,0.917709766,0.009908405
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.917709766,0.009908405
+Concentration,Data,Holdings,AEE,AMEREN CORP,Utilities,0.916003986,0.009889988
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.916003986,0.009889988
+Concentration,Data,Holdings,KHC,KRAFT HEINZ CO/THE,Consumer Non-Cyc,0.914298206,0.009871571
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.914298206,0.009871571
+Concentration,Data,Holdings,TPL,TEXAS PACIFIC LAND CORP,Energy,0.907475085,0.009797903
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.907475085,0.009797903
+Concentration,Data,Holdings,MTD,METTLER-TOLEDO INTERNATIONAL,Technology,0.905769305,0.009779485
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.905769305,0.009779485
+Concentration,Data,Holdings,GPN,GLOBAL PAYMENTS INC,Industrials,0.904063524,0.009761068
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.904063524,0.009761068
+Concentration,Data,Holdings,DOW,DOW INC,Basic Materials,0.900651964,0.009724234
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.900651964,0.009724234
+Concentration,Data,Holdings,AWK,AMERICAN WATER WORKS CO INC,Utilities,0.895534623,0.009668983
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.895534623,0.009668983
+Concentration,Data,Holdings,PPG,PPG INDUSTRIES INC,Basic Materials,0.887005722,0.009576897
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.887005722,0.009576897
+Concentration,Data,Holdings,TYL,TYLER TECHNOLOGIES INC,Technology,0.878476821,0.009484812
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.878476821,0.009484812
+Concentration,Data,Holdings,PPL,PPL CORPORATION,Utilities,0.876771041,0.009466395
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.876771041,0.009466395
+Concentration,Data,Holdings,SW,SMURFIT WESTROCK PLC,Basic Materials,0.86994792,0.009392726
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.86994792,0.009392726
+Concentration,Data,Holdings,HPE,HEWLETT PACKARD ENTERPRISE,Technology,0.868242139,0.009374309
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.868242139,0.009374309
+Concentration,Data,Holdings,CPAY,CORPAY INC,Industrials,0.863124799,0.009319058
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.863124799,0.009319058
+Concentration,Data,Holdings,WBD,WARNER BROS DISCOVERY INC,Consumer Cyclicals,0.863124799,0.009319058
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.863124799,0.009319058
+Concentration,Data,Holdings,HSY,HERSHEY CO/THE,Consumer Non-Cyc,0.861419018,0.009300641
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.861419018,0.009300641
+Concentration,Data,Holdings,EQR,EQUITY RESIDENTIAL,Real Estate,0.852890117,0.009208555
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.852890117,0.009208555
+Concentration,Data,Holdings,GDDY,GODADDY INC - CLASS A,Technology,0.851184337,0.009190138
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.851184337,0.009190138
+Concentration,Data,Holdings,CCL,CARNIVAL CORP,Consumer Cyclicals,0.839243875,0.009061218
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.839243875,0.009061218
+Concentration,Data,Holdings,VLTO,VERALTO CORP,Industrials,0.832420754,0.00898755
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.832420754,0.00898755
+Concentration,Data,Holdings,EXPE,EXPEDIA GROUP INC,Consumer Cyclicals,0.820480293,0.00885863
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.820480293,0.00885863
+Concentration,Data,Holdings,TDY,TELEDYNE TECHNOLOGIES INC,Technology,0.810245611,0.008748127
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.810245611,0.008748127
+Concentration,Data,Holdings,HBAN,HUNTINGTON BANCSHARES INC,Financials,0.808539831,0.00872971
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.808539831,0.00872971
+Concentration,Data,Holdings,DVN,DEVON ENERGY CORP,Energy,0.803422491,0.008674459
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.803422491,0.008674459
+Concentration,Data,Holdings,CDW,CDW CORP/DE,Technology,0.80171671,0.008656042
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.80171671,0.008656042
+Concentration,Data,Holdings,SYF,SYNCHRONY FINANCIAL,Financials,0.79830515,0.008619208
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.79830515,0.008619208
+Concentration,Data,Holdings,ATO,ATMOS ENERGY CORP,Utilities,0.79659937,0.00860079
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.79659937,0.00860079
+Concentration,Data,Holdings,DRI,DARDEN RESTAURANTS INC,Consumer Cyclicals,0.794893589,0.008582373
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.794893589,0.008582373
+Concentration,Data,Holdings,TROW,T ROWE PRICE GROUP INC,Financials,0.793187809,0.008563956
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.793187809,0.008563956
+Concentration,Data,Holdings,SBAC,SBA COMMUNICATIONS CORP,Real Estate,0.788070468,0.008508705
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.788070468,0.008508705
+Concentration,Data,Holdings,HAL,HALLIBURTON CO,Energy,0.781247347,0.008435036
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.781247347,0.008435036
+Concentration,Data,Holdings,ES,EVERSOURCE ENERGY,Utilities,0.779541567,0.008416619
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.779541567,0.008416619
+Concentration,Data,Holdings,CINF,CINCINNATI FINANCIAL CORP,Financials,0.777835787,0.008398202
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.777835787,0.008398202
+Concentration,Data,Holdings,ADM,ARCHER-DANIELS-MIDLAND CO,Consumer Non-Cyc,0.762483765,0.008232448
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.762483765,0.008232448
+Concentration,Data,Holdings,LYV,LIVE NATION ENTERTAINMENT IN,Consumer Cyclicals,0.759072204,0.008195614
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.759072204,0.008195614
+Concentration,Data,Holdings,WAT,WATERS CORP,Healthcare,0.755660644,0.00815878
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.755660644,0.00815878
+Concentration,Data,Holdings,CNP,CENTERPOINT ENERGY INC,Utilities,0.755660644,0.00815878
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.755660644,0.00815878
+Concentration,Data,Holdings,K,KELLANOVA,Consumer Non-Cyc,0.752249083,0.008121946
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.752249083,0.008121946
+Concentration,Data,Holdings,NVR,NVR INC,Consumer Cyclicals,0.748837523,0.008085111
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.748837523,0.008085111
+Concentration,Data,Holdings,CBOE,CBOE GLOBAL MARKETS INC,Financials,0.743720182,0.00802986
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.743720182,0.00802986
+Concentration,Data,Holdings,WY,WEYERHAEUSER CO,Real Estate,0.738602842,0.007974609
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.738602842,0.007974609
+Concentration,Data,Holdings,NTRS,NORTHERN TRUST CORP,Financials,0.736897061,0.007956192
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.736897061,0.007956192
+Concentration,Data,Holdings,CMS,CMS ENERGY CORP,Utilities,0.736897061,0.007956192
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.736897061,0.007956192
+Concentration,Data,Holdings,STE,STERIS PLC,Healthcare,0.731779721,0.00790094
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.731779721,0.00790094
+Concentration,Data,Holdings,RF,REGIONS FINANCIAL CORP,Financials,0.72666238,0.007845689
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.72666238,0.007845689
+Concentration,Data,Holdings,STX,SEAGATE TECHNOLOGY HOLDINGS,Technology,0.7249566,0.007827272
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.7249566,0.007827272
+Concentration,Data,Holdings,NRG,NRG ENERGY INC,Utilities,0.723250819,0.007808855
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.723250819,0.007808855
+Concentration,Data,Holdings,PHM,PULTE GROUP INC,Consumer Cyclicals,0.714721918,0.007716769
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.714721918,0.007716769
+Concentration,Data,Holdings,DECK,DECKERS OUTDOOR CORP,Consumer Cyclicals,0.714721918,0.007716769
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.714721918,0.007716769
+Concentration,Data,Holdings,EIX,EDISON INTL,Utilities,0.711310358,0.007679935
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.711310358,0.007679935
+Concentration,Data,Holdings,LH,LABCORP HOLDINGS INC,Healthcare,0.709604578,0.007661518
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.709604578,0.007661518
+Concentration,Data,Holdings,IFF,INTL FLAVORS & FRAGRANCES,Consumer Non-Cyc,0.706193017,0.007624684
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.706193017,0.007624684
+Concentration,Data,Holdings,SMCI,SUPER MICRO COMPUTER INC,Technology,0.704487237,0.007606266
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.704487237,0.007606266
+Concentration,Data,Holdings,MKC,MCCORMICK & CO-NON VTG SHRS,Consumer Non-Cyc,0.701075676,0.007569432
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.701075676,0.007569432
+Concentration,Data,Holdings,ZBH,ZIMMER BIOMET HOLDINGS INC,Healthcare,0.701075676,0.007569432
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.701075676,0.007569432
+Concentration,Data,Holdings,BIIB,BIOGEN INC,Healthcare,0.690840995,0.00745893
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.690840995,0.00745893
+Concentration,Data,Holdings,NTAP,NETAPP INC,Technology,0.689135215,0.007440512
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.689135215,0.007440512
+Concentration,Data,Holdings,CFG,CITIZENS FINANCIAL GROUP,Financials,0.680606314,0.007348427
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.680606314,0.007348427
+Concentration,Data,Holdings,ESS,ESSEX PROPERTY TRUST INC,Real Estate,0.677194753,0.007311593
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.677194753,0.007311593
+Concentration,Data,Holdings,ON,ON SEMICONDUCTOR,Technology,0.675488973,0.007293176
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.675488973,0.007293176
+Concentration,Data,Holdings,LYB,LYONDELLBASELL INDU-CL A,Basic Materials,0.673783193,0.007274758
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.673783193,0.007274758
+Concentration,Data,Holdings,HUBB,HUBBELL INC,Industrials,0.673783193,0.007274758
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.673783193,0.007274758
+Concentration,Data,Holdings,TPR,TAPESTRY INC,Consumer Cyclicals,0.672077412,0.007256341
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.672077412,0.007256341
+Concentration,Data,Holdings,FE,FIRSTENERGY CORP,Utilities,0.670371632,0.007237924
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.670371632,0.007237924
+Concentration,Data,Holdings,CTRA,COTERRA ENERGY INC,Energy,0.670371632,0.007237924
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.670371632,0.007237924
+Concentration,Data,Holdings,VRSN,VERISIGN INC,Technology,0.663548511,0.007164256
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.663548511,0.007164256
+Concentration,Data,Holdings,PTC,PTC INC,Technology,0.663548511,0.007164256
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.663548511,0.007164256
+Concentration,Data,Holdings,MAA,MID-AMERICA APARTMENT COMM,Real Estate,0.661842731,0.007145839
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.661842731,0.007145839
+Concentration,Data,Holdings,CLX,CLOROX COMPANY,Consumer Non-Cyc,0.65331383,0.007053753
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.65331383,0.007053753
+Concentration,Data,Holdings,INVH,INVITATION HOMES INC,Real Estate,0.65331383,0.007053753
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.65331383,0.007053753
+Concentration,Data,Holdings,DGX,QUEST DIAGNOSTICS INC,Healthcare,0.65160805,0.007035336
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.65160805,0.007035336
+Concentration,Data,Holdings,LII,LENNOX INTL INC,Industrials,0.649902269,0.007016919
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.649902269,0.007016919
+Concentration,Data,Holdings,STLD,STEEL DYNAMICS INC,Basic Materials,0.644784929,0.006961668
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.644784929,0.006961668
+Concentration,Data,Holdings,NI,NISOURCE INC,Utilities,0.643079148,0.006943251
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.643079148,0.006943251
+Concentration,Data,Holdings,PODD,INSULET CORP,Healthcare,0.643079148,0.006943251
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.643079148,0.006943251
+Concentration,Data,Holdings,PKG,PACKAGING CORP OF AMERICA,Basic Materials,0.641373368,0.006924833
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.641373368,0.006924833
+Concentration,Data,Holdings,WRB,WR BERKLEY CORP,Financials,0.641373368,0.006924833
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.641373368,0.006924833
+Concentration,Data,Holdings,PFG,PRINCIPAL FINANCIAL GROUP,Financials,0.632844467,0.006832748
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.632844467,0.006832748
+Concentration,Data,Holdings,LUV,SOUTHWEST AIRLINES CO,Industrials,0.629432907,0.006795914
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.629432907,0.006795914
+Concentration,Data,Holdings,SNA,SNAP-ON INC,Industrials,0.605551983,0.006538074
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.605551983,0.006538074
+Concentration,Data,Holdings,COO,COOPER COS INC/THE,Healthcare,0.605551983,0.006538074
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.605551983,0.006538074
+Concentration,Data,Holdings,TER,TERADYNE INC,Technology,0.603846203,0.006519657
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.603846203,0.006519657
+Concentration,Data,Holdings,BAX,BAXTER INTERNATIONAL INC.,Healthcare,0.595317302,0.006427571
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.595317302,0.006427571
+Concentration,Data,Holdings,BBY,BEST BUY CO INC,Consumer Cyclicals,0.593611522,0.006409154
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.593611522,0.006409154
+Concentration,Data,Holdings,TRMB,TRIMBLE INC,Technology,0.591905741,0.006390737
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.591905741,0.006390737
+Concentration,Data,Holdings,FDS,FACTSET RESEARCH SYSTEMS INC,Industrials,0.591905741,0.006390737
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.591905741,0.006390737
+Concentration,Data,Holdings,JBL,JABIL INC,Technology,0.590199961,0.00637232
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.590199961,0.00637232
+Concentration,Data,Holdings,TSN,TYSON FOODS INC-CL A,Consumer Non-Cyc,0.590199961,0.00637232
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.590199961,0.00637232
+Concentration,Data,Holdings,GPC,GENUINE PARTS CO,Consumer Cyclicals,0.586788401,0.006335486
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.586788401,0.006335486
+Concentration,Data,Holdings,LDOS,LEIDOS HOLDINGS INC,Technology,0.58508262,0.006317069
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.58508262,0.006317069
+Concentration,Data,Holdings,ULTA,ULTA BEAUTY INC,Consumer Cyclicals,0.58337684,0.006298652
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.58337684,0.006298652
+Concentration,Data,Holdings,MOH,MOLINA HEALTHCARE INC,Healthcare,0.58167106,0.006280235
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.58167106,0.006280235
+Concentration,Data,Holdings,KEY,KEYCORP,Financials,0.57996528,0.006261817
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.57996528,0.006261817
+Concentration,Data,Holdings,FFIV,F5 INC,Technology,0.573142159,0.006188149
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.573142159,0.006188149
+Concentration,Data,Holdings,WDC,WESTERN DIGITAL CORP,Technology,0.571436379,0.006169732
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.571436379,0.006169732
+Concentration,Data,Holdings,DPZ,DOMINO'S PIZZA INC,Consumer Cyclicals,0.571436379,0.006169732
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.571436379,0.006169732
+Concentration,Data,Holdings,WST,WEST PHARMACEUTICAL SERVICES,Healthcare,0.568024818,0.006132898
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.568024818,0.006132898
+Concentration,Data,Holdings,EL,ESTEE LAUDER COMPANIES-CL A,Consumer Non-Cyc,0.566319038,0.006114481
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.566319038,0.006114481
+Concentration,Data,Holdings,LNT,ALLIANT ENERGY CORP,Utilities,0.559495917,0.006040812
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.559495917,0.006040812
+Concentration,Data,Holdings,EXPD,EXPEDITORS INTL WASH INC,Industrials,0.554378576,0.005985561
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.554378576,0.005985561
+Concentration,Data,Holdings,DG,DOLLAR GENERAL CORP,Consumer Cyclicals,0.549261236,0.005930309
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.549261236,0.005930309
+Concentration,Data,Holdings,MAS,MASCO CORP,Consumer Cyclicals,0.547555455,0.005911892
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.547555455,0.005911892
+Concentration,Data,Holdings,ZBRA,ZEBRA TECHNOLOGIES CORP-CL A,Technology,0.547555455,0.005911892
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.547555455,0.005911892
+Concentration,Data,Holdings,OMC,OMNICOM GROUP,Telecomm,0.545849675,0.005893475
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.545849675,0.005893475
+Concentration,Data,Holdings,BLDR,BUILDERS FIRSTSOURCE INC,Consumer Cyclicals,0.540732334,0.005838224
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.540732334,0.005838224
+Concentration,Data,Holdings,ARE,ALEXANDRIA REAL ESTATE EQUIT,Real Estate,0.537320774,0.00580139
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.537320774,0.00580139
+Concentration,Data,Holdings,J,JACOBS SOLUTIONS INC,Industrials,0.537320774,0.00580139
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.537320774,0.00580139
+Concentration,Data,Holdings,EVRG,EVERGY INC,Utilities,0.532203433,0.005746138
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.532203433,0.005746138
+Concentration,Data,Holdings,BALL,BALL CORP,Basic Materials,0.530497653,0.005727721
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.530497653,0.005727721
+Concentration,Data,Holdings,L,LOEWS CORP,Financials,0.528791873,0.005709304
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.528791873,0.005709304
+Concentration,Data,Holdings,PNR,PENTAIR PLC,Industrials,0.525380312,0.00567247
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.525380312,0.00567247
+Concentration,Data,Holdings,LVS,LAS VEGAS SANDS CORP,Consumer Cyclicals,0.525380312,0.00567247
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.525380312,0.00567247
+Concentration,Data,Holdings,APTV,APTIV PLC,Consumer Cyclicals,0.516851411,0.005580384
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.516851411,0.005580384
+Concentration,Data,Holdings,EG,EVEREST GROUP LTD,Financials,0.51173407,0.005525133
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.51173407,0.005525133
+Concentration,Data,Holdings,AVY,AVERY DENNISON CORP,Basic Materials,0.51002829,0.005506716
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.51002829,0.005506716
+Concentration,Data,Holdings,KIM,KIMCO REALTY CORP,Real Estate,0.501499389,0.00541463
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.501499389,0.00541463
+Concentration,Data,Holdings,GEN,GEN DIGITAL INC,Technology,0.501499389,0.00541463
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.501499389,0.00541463
+Concentration,Data,Holdings,DLTR,DOLLAR TREE INC,Consumer Cyclicals,0.498087829,0.005377796
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.498087829,0.005377796
+Concentration,Data,Holdings,ROL,ROLLINS INC,Industrials,0.498087829,0.005377796
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.498087829,0.005377796
+Concentration,Data,Holdings,AMCR,AMCOR PLC,Basic Materials,0.494676268,0.005340962
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.494676268,0.005340962
+Concentration,Data,Holdings,HOLX,HOLOGIC INC,Healthcare,0.494676268,0.005340962
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.494676268,0.005340962
+Concentration,Data,Holdings,IEX,IDEX CORP,Industrials,0.494676268,0.005340962
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.494676268,0.005340962
+Concentration,Data,Holdings,FSLR,FIRST SOLAR INC,Energy,0.492970488,0.005322545
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.492970488,0.005322545
+Concentration,Data,Holdings,DOC,HEALTHPEAK PROPERTIES INC,Real Estate,0.482735806,0.005212042
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.482735806,0.005212042
+Concentration,Data,Holdings,CF,CF INDUSTRIES HOLDINGS INC,Basic Materials,0.475912685,0.005138374
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.475912685,0.005138374
+Concentration,Data,Holdings,TXT,TEXTRON INC,Industrials,0.467383784,0.005046288
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.467383784,0.005046288
+Concentration,Data,Holdings,RVTY,REVVITY INC,Healthcare,0.460560663,0.00497262
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.460560663,0.00497262
+Concentration,Data,Holdings,UDR,UDR INC,Real Estate,0.458854883,0.004954203
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.458854883,0.004954203
+Concentration,Data,Holdings,SWK,STANLEY BLACK & DECKER INC,Industrials,0.450325982,0.004862117
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.450325982,0.004862117
+Concentration,Data,Holdings,CPT,CAMDEN PROPERTY TRUST,Real Estate,0.446914421,0.004825283
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.446914421,0.004825283
+Concentration,Data,Holdings,POOL,POOL CORP,Consumer Cyclicals,0.445208641,0.004806866
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.445208641,0.004806866
+Concentration,Data,Holdings,ALGN,ALIGN TECHNOLOGY INC,Healthcare,0.441797081,0.004770032
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.441797081,0.004770032
+Concentration,Data,Holdings,KMX,CARMAX INC,Consumer Cyclicals,0.43326818,0.004677946
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.43326818,0.004677946
+Concentration,Data,Holdings,JBHT,HUNT (JB) TRANSPRT SVCS INC,Industrials,0.43326818,0.004677946
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.43326818,0.004677946
+Concentration,Data,Holdings,FOXA,FOX CORP - CLASS A,Consumer Cyclicals,0.429856619,0.004641112
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.429856619,0.004641112
+Concentration,Data,Holdings,JKHY,JACK HENRY & ASSOCIATES INC,Technology,0.428150839,0.004622695
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.428150839,0.004622695
+Concentration,Data,Holdings,REG,REGENCY CENTERS CORP,Real Estate,0.423033498,0.004567443
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.423033498,0.004567443
+Concentration,Data,Holdings,CAG,CONAGRA BRANDS INC,Consumer Non-Cyc,0.411093037,0.004438524
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.411093037,0.004438524
+Concentration,Data,Holdings,AKAM,AKAMAI TECHNOLOGIES INC,Technology,0.409387256,0.004420106
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.409387256,0.004420106
+Concentration,Data,Holdings,JNPR,JUNIPER NETWORKS INC,Technology,0.402564135,0.004346438
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.402564135,0.004346438
+Concentration,Data,Holdings,CHRW,C.H. ROBINSON WORLDWIDE INC,Industrials,0.402564135,0.004346438
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.402564135,0.004346438
+Concentration,Data,Holdings,SJM,JM SMUCKER CO/THE,Consumer Non-Cyc,0.397446795,0.004291187
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.397446795,0.004291187
+Concentration,Data,Holdings,INCY,INCYTE CORP,Healthcare,0.397446795,0.004291187
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.397446795,0.004291187
+Concentration,Data,Holdings,EPAM,EPAM SYSTEMS INC,Technology,0.394035234,0.004254352
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.394035234,0.004254352
+Concentration,Data,Holdings,NDSN,NORDSON CORP,Industrials,0.385506333,0.004162267
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.385506333,0.004162267
+Concentration,Data,Holdings,EMN,EASTMAN CHEMICAL CO,Basic Materials,0.382094773,0.004125433
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.382094773,0.004125433
+Concentration,Data,Holdings,HST,HOST HOTELS & RESORTS INC,Real Estate,0.380388992,0.004107016
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.380388992,0.004107016
+Concentration,Data,Holdings,ALLE,ALLEGION PLC,Technology,0.376977432,0.004070181
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.376977432,0.004070181
+Concentration,Data,Holdings,VTRS,VIATRIS INC,Healthcare,0.373565871,0.004033347
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.373565871,0.004033347
+Concentration,Data,Holdings,SOLV,SOLVENTUM CORP,Healthcare,0.373565871,0.004033347
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.373565871,0.004033347
+Concentration,Data,Holdings,LKQ,LKQ CORP,Consumer Cyclicals,0.370154311,0.003996513
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.370154311,0.003996513
+Concentration,Data,Holdings,RL,RALPH LAUREN CORP,Consumer Cyclicals,0.368448531,0.003978096
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.368448531,0.003978096
+Concentration,Data,Holdings,NWSA,NEWS CORP - CLASS A,Telecomm,0.36674275,0.003959679
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.36674275,0.003959679
+Concentration,Data,Holdings,GL,GLOBE LIFE INC,Financials,0.36162541,0.003904427
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.36162541,0.003904427
+Concentration,Data,Holdings,ERIE,ERIE INDEMNITY COMPANY-CL A,Financials,0.36162541,0.003904427
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.36162541,0.003904427
+Concentration,Data,Holdings,TAP,MOLSON COORS BEVERAGE CO - B,Consumer Non-Cyc,0.36162541,0.003904427
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.36162541,0.003904427
+Concentration,Data,Holdings,SWKS,SKYWORKS SOLUTIONS INC,Technology,0.35991963,0.00388601
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.35991963,0.00388601
+Concentration,Data,Holdings,AIZ,ASSURANT INC,Financials,0.35991963,0.00388601
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.35991963,0.00388601
+Concentration,Data,Holdings,PAYC,PAYCOM SOFTWARE INC,Technology,0.358213849,0.003867593
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.358213849,0.003867593
+Concentration,Data,Holdings,PNW,PINNACLE WEST CAPITAL,Utilities,0.354802289,0.003830759
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.354802289,0.003830759
+Concentration,Data,Holdings,MRNA,MODERNA INC,Healthcare,0.354802289,0.003830759
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.354802289,0.003830759
+Concentration,Data,Holdings,BG,BUNGE GLOBAL SA,Consumer Non-Cyc,0.349684948,0.003775508
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.349684948,0.003775508
+Concentration,Data,Holdings,UHS,UNIVERSAL HEALTH SERVICES-B,Healthcare,0.347979168,0.00375709
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.347979168,0.00375709
+Concentration,Data,Holdings,BXP,BXP INC,Real Estate,0.347979168,0.00375709
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.347979168,0.00375709
+Concentration,Data,Holdings,IPG,INTERPUBLIC GROUP OF COS INC,Telecomm,0.344567607,0.003720256
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.344567607,0.003720256
+Concentration,Data,Holdings,NCLH,NORWEGIAN CRUISE LINE HOLDIN,Consumer Cyclicals,0.337744486,0.003646588
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.337744486,0.003646588
+Concentration,Data,Holdings,TECH,BIO-TECHNE CORP,Healthcare,0.329215585,0.003554502
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.329215585,0.003554502
+Concentration,Data,Holdings,DAY,DAYFORCE INC,Technology,0.329215585,0.003554502
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.329215585,0.003554502
+Concentration,Data,Holdings,ALB,ALBEMARLE CORP,Basic Materials,0.307040442,0.00331508
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.307040442,0.00331508
+Concentration,Data,Holdings,HSIC,HENRY SCHEIN INC,Healthcare,0.303628882,0.003278246
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.303628882,0.003278246
+Concentration,Data,Holdings,HAS,HASBRO INC,Consumer Cyclicals,0.28827686,0.003112492
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.28827686,0.003112492
+Concentration,Data,Holdings,CRL,CHARLES RIVER LABORATORIES,Healthcare,0.284865299,0.003075657
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.284865299,0.003075657
+Concentration,Data,Holdings,HRL,HORMEL FOODS CORP,Consumer Non-Cyc,0.281453739,0.003038823
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.281453739,0.003038823
+Concentration,Data,Holdings,WYNN,WYNN RESORTS LTD.,Consumer Cyclicals,0.278042178,0.003001989
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.278042178,0.003001989
+Concentration,Data,Holdings,AES,AES CORP,Utilities,0.278042178,0.003001989
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.278042178,0.003001989
+Concentration,Data,Holdings,GNRC,GENERAC HOLDINGS INC,Industrials,0.272924838,0.002946738
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.272924838,0.002946738
+Concentration,Data,Holdings,FRT,FEDERAL REALTY INVS TRUST,Real Estate,0.271219057,0.002928321
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.271219057,0.002928321
+Concentration,Data,Holdings,MTCH,MATCH GROUP INC,Technology,0.269513277,0.002909903
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.269513277,0.002909903
+Concentration,Data,Holdings,AOS,SMITH (A.O.) CORP,Industrials,0.267807497,0.002891486
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.267807497,0.002891486
+Concentration,Data,Holdings,CPB,THE CAMPBELL'S COMPANY,Consumer Non-Cyc,0.266101717,0.002873069
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.266101717,0.002873069
+Concentration,Data,Holdings,MGM,MGM RESORTS INTERNATIONAL,Consumer Cyclicals,0.266101717,0.002873069
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.266101717,0.002873069
+Concentration,Data,Holdings,IVZ,INVESCO LTD,Financials,0.264395936,0.002854652
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.264395936,0.002854652
+Concentration,Data,Holdings,ENPH,ENPHASE ENERGY INC,Energy,0.260984376,0.002817818
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.260984376,0.002817818
+Concentration,Data,Holdings,WBA,WALGREENS BOOTS ALLIANCE INC,Consumer Non-Cyc,0.259278596,0.002799401
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.259278596,0.002799401
+Concentration,Data,Holdings,APA,APA CORP,Energy,0.259278596,0.002799401
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.259278596,0.002799401
+Concentration,Data,Holdings,MOS,MOSAIC CO/THE,Basic Materials,0.254161255,0.002744149
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.254161255,0.002744149
+Concentration,Data,Holdings,LW,LAMB WESTON HOLDINGS INC,Consumer Non-Cyc,0.249043914,0.002688898
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.249043914,0.002688898
+Concentration,Data,Holdings,MKTX,MARKETAXESS HOLDINGS INC,Financials,0.245632354,0.002652064
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.245632354,0.002652064
+Concentration,Data,Holdings,FOX,FOX CORP - CLASS B,Consumer Cyclicals,0.242220793,0.00261523
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.242220793,0.00261523
+Concentration,Data,Holdings,CZR,CAESARS ENTERTAINMENT INC,Consumer Cyclicals,0.238809233,0.002578395
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.238809233,0.002578395
+Concentration,Data,Holdings,HII,HUNTINGTON INGALLS INDUSTRIE,Industrials,0.233691892,0.002523144
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.233691892,0.002523144
+Concentration,Data,Holdings,PARA,PARAMOUNT GLOBAL-CLASS B,Consumer Cyclicals,0.228574551,0.002467893
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.228574551,0.002467893
+Concentration,Data,Holdings,DVA,DAVITA INC,Healthcare,0.225162991,0.002431059
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.225162991,0.002431059
+Concentration,Data,Holdings,BWA,BORGWARNER INC,Consumer Cyclicals,0.22004565,0.002375807
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.22004565,0.002375807
+Concentration,Data,Holdings,BEN,FRANKLIN RESOURCES INC,Financials,0.211516749,0.002283722
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.211516749,0.002283722
+Concentration,Data,Holdings,MHK,MOHAWK INDUSTRIES INC,Consumer Cyclicals,0.208105189,0.002246887
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.208105189,0.002246887
+Concentration,Data,Holdings,TFX,TELEFLEX INC,Healthcare,0.208105189,0.002246887
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.208105189,0.002246887
+Concentration,Data,Holdings,BF B,BROWN-FORMAN CORP-CLASS B,Consumer Non-Cyc,0.202987848,0.002191636
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.202987848,0.002191636
+Concentration,Data,Holdings,CE,CELANESE CORP,Basic Materials,0.187635826,0.002025882
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.187635826,0.002025882
+Concentration,Data,Holdings,FMC,FMC CORP,Basic Materials,0.155226001,0.001675957
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.155226001,0.001675957
+Concentration,Data,Holdings,NWS,NEWS CORP - CLASS B,Telecomm,0.122816177,0.001326032
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0.122816177,0.001326032
+Concentration,Data,Holdings,T 3 3/8 05/15/44,T 3 3/8 05/15/44,Unclassified,0.07998573,0.000863597
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,0.07998573,0.000863597
+Concentration,Data,Holdings,T 4 1/2 02/15/44,T 4 1/2 02/15/44,Unclassified,0.009273708,0.000100127
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,0.009273708,0.000100127
+Concentration,Data,Holdings,T 2 7/8 05/15/43,T 2 7/8 05/15/43,Unclassified,0.009273708,0.000100127
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,0.009273708,0.000100127
+Concentration,Data,Holdings,T 3 5/8 08/15/43,T 3 5/8 08/15/43,Unclassified,0.009273708,0.000100127
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,0.009273708,0.000100127
+Concentration,Data,Holdings,T 3 5/8 02/15/44,T 3 5/8 02/15/44,Unclassified,0.005796067,0.000062579
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,0.005796067,0.000062579
+Concentration,Data,Holdings,T 2 3/4 11/15/42,T 2 3/4 11/15/42,Unclassified,0.005796067,0.000062579
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,0.005796067,0.000062579
+Concentration,Data,Holdings,T 4 11/15/42,T 4 11/15/42,Unclassified,0.005796067,0.000062579
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,0.005796067,0.000062579
+Concentration,Data,Holdings,T 3 1/8 02/15/43,T 3 1/8 02/15/43,Unclassified,0.001159213,0.000012516
+Concentration,Data,Holdings,    TLT,ISHARES 20+ YEAR TREASURY BD,Government,0.001159213,0.000012516
+Concentration,Data,Holdings,SNDK,SanDisk Corp,Unclassified,0,0
+Concentration,Data,Holdings,    SPY,SPDR S&P 500 ETF TRUST,Broad,0,0
+Concentration,Data,Holdings,Total,,,9261.932100953,100
+Concentration,Header,SubSection,AssetClass,LongWeight,LongParsedWeight,+/-
+Concentration,Data,Asset Class Allocation,Cash,12.108727302,30.147958897,18.039231595
+Concentration,Data,Asset Class Allocation,Fixed Income,12.515855087,25.422711507,12.90685642
+Concentration,Data,Asset Class Allocation,Other Assets,0,25.114240995,25.114240995
+Concentration,Data,Asset Class Allocation,Equities,69.267188855,18.923504006,-50.343684849
+Concentration,Data,Asset Class Allocation,Real Estate,0,0.391584595,0.391584595
+Concentration,Data,Asset Class Allocation,Commodities,6.108228756,0,-6.108228756
+Concentration,Data,Asset Class Allocation,Total,100,100,0
+Concentration,Header,SubSection,Sector,LongWeight,LongParsedWeight,+/-
+Concentration,Data,Sector Allocation,Unclassified,0,52.067731246,52.067731246
+Concentration,Data,Sector Allocation,Cash,12.108727302,28.816545807,16.707818505
+Concentration,Data,Sector Allocation,Technology,0.738614786,7.189299693,6.450684907
+Concentration,Data,Sector Allocation,Consumer Cyclicals,0,2.154709799,2.154709799
+Concentration,Data,Sector Allocation,Healthcare,0,1.968568067,1.968568067
+Concentration,Data,Sector Allocation,Financials,0,1.698996826,1.698996826
+Concentration,Data,Sector Allocation,Telecomm,0,1.520921788,1.520921788
+Concentration,Data,Sector Allocation,Industrial,0,1.410050785,1.410050785
+Concentration,Data,Sector Allocation,Consumer Non-Cyc,0,1.336437596,1.336437596
+Concentration,Data,Sector Allocation,Energy,0,0.614321125,0.614321125
+Concentration,Data,Sector Allocation,Utilities,0,0.472932971,0.472932971
+Concentration,Data,Sector Allocation,Real Estate,0,0.391584595,0.391584595
+Concentration,Data,Sector Allocation,Basic Materials,6.108228756,0.357899701,-5.750329055
+Concentration,Data,Sector Allocation,Broad,68.528574068,0,-68.528574068
+Concentration,Data,Sector Allocation,Government,12.515855087,0,-12.515855087
+Concentration,Data,Sector Allocation,Total,100,100,0
+Concentration,Header,SubSection,Region,LongWeight,LongParsedWeight,+/-
+Concentration,Data,Region Allocation,North America,100,72.067047433,-27.932952567
+Concentration,Data,Region Allocation,Not Available,0,27.610450552,27.610450552
+Concentration,Data,Region Allocation,Europe,0,0.322502015,0.322502015
+Concentration,Data,Region Allocation,Total,100,100,0
+Concentration,Header,SubSection,Country,LongWeight,LongParsedWeight,+/-
+Concentration,Data,Country Allocation,United States,100,72.033786132,-27.966213868
+Concentration,Data,Country Allocation,Not Available,0,27.610450552,27.610450552
+Concentration,Data,Country Allocation,Ireland,0,0.189401561,0.189401561
+Concentration,Data,Country Allocation,Britain,0,0.055730175,0.055730175
+Concentration,Data,Country Allocation,Switzerland,0,0.051825748,0.051825748
+Concentration,Data,Country Allocation,Netherlands,0,0.019964147,0.019964147
+Concentration,Data,Country Allocation,Bermuda,0,0.018214522,0.018214522
+Concentration,Data,Country Allocation,Canada,0,0.015046779,0.015046779
+Concentration,Data,Country Allocation,Jersey,0,0.005580384,0.005580384
+Concentration,Data,Country Allocation,Total,100,100,0
+Concentration,Header,SubSection,FinancialInstrument,LongWeight,LongParsedWeight,+/-
+Concentration,Data,Financial Instrument Allocation,Futures,0,25.030706406,25.030706406
+Concentration,Data,Financial Instrument Allocation,Stocks,0,18.576473815,18.576473815
+Concentration,Data,Financial Instrument Allocation,Funds,0,16.668088496,16.668088496
+Concentration,Data,Financial Instrument Allocation,Cash,12.108727302,13.479870401,1.371143099
+Concentration,Data,Financial Instrument Allocation,Bonds,0,13.411760116,13.411760116
+Concentration,Data,Financial Instrument Allocation,Treasury Bills,0,12.010951391,12.010951391
+Concentration,Data,Financial Instrument Allocation,ETFs,87.891272698,0.738614786,-87.152657912
+Concentration,Data,Financial Instrument Allocation,Unclassified,0,0.08353459,0.08353459
+Concentration,Data,Financial Instrument Allocation,Total,100,100,0
+Concentration,Header,SubSection,Type,LongAmount,LongPercent,ShortAmount,ShortPercent,GrossAmount,GrossPercent,NetAmount,NetPercent
+Concentration,Data,Exposure,Unparsed,8140.43,87.891272698,0,0,8140.43,87.891272698,8140.43,87.891272698
+Concentration,Data,Exposure,Parsed,8013.435657111,86.520129599,0,0,8013.435657111,86.520129599,8013.435657111,86.520129599
+Disclosure,"IMPORTANT NOTE: This portfolio analysis was generated using Interactive Brokers' PortfolioAnalyst tool, which allows Interactive Brokers clients to generate analyses of their accounts using market data provided by third parties along with trade and account data contained in Interactive Brokers' systems. This analysis is for information purposes only and is provided AS IS. Interactive Brokers makes no warranty of any kind, express or implied, as to this report analysis and its contents. The data provided for use in this Portfolio Analysis is believed to be accurate but completeness and accuracy of the information is not guaranteed, and Interactive Brokers has no liability with respect thereto. The data regarding accounts held outside of Interactive Brokers is obtained either directly from you or from the financial institutions holding those accounts through a third-party service provider and Interactive Brokers has not reviewed its accuracy.
+
+This material in this analysis is intended only as a reference and should not be relied upon for the maintenance of your books and records for tax, accounting, financial, or regulatory reporting or for any other purposes. This analysis is not an offer or a solicitation of an offer to buy or sell any security. This material does not and is not intended to take into account the particular financial conditions, investment objectives or requirements of individual customers. Before acting on this material, you should consider whether it is suitable for your particular circumstances and, as necessary, seek professional advice."

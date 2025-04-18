@@ -1,0 +1,65 @@
+Introduction,Header,Name,Account,Alias,BaseCurrency,AccountType,AnalysisPeriod,PerformanceMeasure
+Introduction,Data,Xiaohua Hu,Agami USA,Agami USA,USD,Individual,"January 1, 2025 to March 21, 2025 (Daily)",TWR
+Time Period Performance Statistics,MetaInfo,Analysis Period,"January 1, 2025 - March 21, 2025"
+Time Period Performance Statistics,Header,Date,Account,Return
+Time Period Performance Statistics,Data,01/01/25,Agami USA,0
+Time Period Performance Statistics,Data,01/02/25,Agami USA,0.505321188
+Time Period Performance Statistics,Data,01/03/25,Agami USA,0.027645698
+Time Period Performance Statistics,Data,01/06/25,Agami USA,-0.154058526
+Time Period Performance Statistics,Data,01/07/25,Agami USA,-0.262808795
+Time Period Performance Statistics,Data,01/08/25,Agami USA,0.14345245
+Time Period Performance Statistics,Data,01/09/25,Agami USA,0
+Time Period Performance Statistics,Data,01/10/25,Agami USA,0.002845152
+Time Period Performance Statistics,Data,01/13/25,Agami USA,0.165540967
+Time Period Performance Statistics,Data,01/14/25,Agami USA,-0.237433788
+Time Period Performance Statistics,Data,01/15/25,Agami USA,0.499004655
+Time Period Performance Statistics,Data,01/16/25,Agami USA,0.006085687
+Time Period Performance Statistics,Data,01/17/25,Agami USA,0.374981385
+Time Period Performance Statistics,Data,01/20/25,Agami USA,0
+Time Period Performance Statistics,Data,01/21/25,Agami USA,-0.414137115
+Time Period Performance Statistics,Data,01/22/25,Agami USA,0.021439008
+Time Period Performance Statistics,Data,01/23/25,Agami USA,-0.080593518
+Time Period Performance Statistics,Data,01/24/25,Agami USA,-0.2503775
+Time Period Performance Statistics,Data,01/27/25,Agami USA,-0.236581543
+Time Period Performance Statistics,Data,01/28/25,Agami USA,0.318300853
+Time Period Performance Statistics,Data,01/29/25,Agami USA,0.111830319
+Time Period Performance Statistics,Data,01/30/25,Agami USA,0.131881726
+Time Period Performance Statistics,Data,01/31/25,Agami USA,-0.039984668
+Time Period Performance Statistics,Data,02/03/25,Agami USA,0.286198963
+Time Period Performance Statistics,Data,02/04/25,Agami USA,-0.405669858
+Time Period Performance Statistics,Data,02/05/25,Agami USA,0.044507613
+Time Period Performance Statistics,Data,02/06/25,Agami USA,0.023115104
+Time Period Performance Statistics,Data,02/07/25,Agami USA,-0.053362541
+Time Period Performance Statistics,Data,02/10/25,Agami USA,0.341576484
+Time Period Performance Statistics,Data,02/11/25,Agami USA,-0.252744088
+Time Period Performance Statistics,Data,02/12/25,Agami USA,-0.172738295
+Time Period Performance Statistics,Data,02/13/25,Agami USA,-0.032293264
+Time Period Performance Statistics,Data,02/14/25,Agami USA,-0.044825324
+Time Period Performance Statistics,Data,02/17/25,Agami USA,0
+Time Period Performance Statistics,Data,02/18/25,Agami USA,-0.00442138
+Time Period Performance Statistics,Data,02/19/25,Agami USA,0.19391767
+Time Period Performance Statistics,Data,02/20/25,Agami USA,-0.35850517
+Time Period Performance Statistics,Data,02/21/25,Agami USA,-0.172199684
+Time Period Performance Statistics,Data,02/24/25,Agami USA,-0.053132793
+Time Period Performance Statistics,Data,02/25/25,Agami USA,-0.282292517
+Time Period Performance Statistics,Data,02/26/25,Agami USA,0.029747624
+Time Period Performance Statistics,Data,02/27/25,Agami USA,-0.065268665
+Time Period Performance Statistics,Data,02/28/25,Agami USA,0.659686471
+Time Period Performance Statistics,Data,03/03/25,Agami USA,-0.766275597
+Time Period Performance Statistics,Data,03/04/25,Agami USA,-0.865386564
+Time Period Performance Statistics,Data,03/05/25,Agami USA,-0.528640051
+Time Period Performance Statistics,Data,03/06/25,Agami USA,-0.449284853
+Time Period Performance Statistics,Data,03/07/25,Agami USA,-0.080336658
+Time Period Performance Statistics,Data,03/10/25,Agami USA,-0.394323223
+Time Period Performance Statistics,Data,03/11/25,Agami USA,-0.486815996
+Time Period Performance Statistics,Data,03/12/25,Agami USA,0.099800589
+Time Period Performance Statistics,Data,03/13/25,Agami USA,-0.08714106
+Time Period Performance Statistics,Data,03/14/25,Agami USA,0.438705098
+Time Period Performance Statistics,Data,03/17/25,Agami USA,0.102377489
+Time Period Performance Statistics,Data,03/18/25,Agami USA,-0.322126701
+Time Period Performance Statistics,Data,03/19/25,Agami USA,0.494070798
+Time Period Performance Statistics,Data,03/20/25,Agami USA,0.092886115
+Time Period Performance Statistics,Data,03/21/25,Agami USA,0.049594354
+Disclosure,"IMPORTANT NOTE: This portfolio analysis was generated using Interactive Brokers' PortfolioAnalyst tool, which allows Interactive Brokers clients to generate analyses of their accounts using market data provided by third parties along with trade and account data contained in Interactive Brokers' systems. This analysis is for information purposes only and is provided AS IS. Interactive Brokers makes no warranty of any kind, express or implied, as to this report analysis and its contents. The data provided for use in this Portfolio Analysis is believed to be accurate but completeness and accuracy of the information is not guaranteed, and Interactive Brokers has no liability with respect thereto. The data regarding accounts held outside of Interactive Brokers is obtained either directly from you or from the financial institutions holding those accounts through a third-party service provider and Interactive Brokers has not reviewed its accuracy.
+
+This material in this analysis is intended only as a reference and should not be relied upon for the maintenance of your books and records for tax, accounting, financial, or regulatory reporting or for any other purposes. This analysis is not an offer or a solicitation of an offer to buy or sell any security. This material does not and is not intended to take into account the particular financial conditions, investment objectives or requirements of individual customers. Before acting on this material, you should consider whether it is suitable for your particular circumstances and, as necessary, seek professional advice."
