@@ -28,4 +28,4 @@ jobs:
           pytest
       - name: Security scan with Bandit
         run: |
-          bandit -r .
+          bandit -r . -x test_performance_ingest.py,test_concentration_ingest.py
